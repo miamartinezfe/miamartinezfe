@@ -1,16 +1,24 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**miamartinezfe/miamartinezfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quién soy
+Soy Miguel Martínez, un apasionado desarrollador full stack con experiencia en JavaScript, Java, Node.js, React, Express, SQL, PostgreSQL y Vue. Mi pasión por la tecnología y mi deseo de explorar cómo funcionan las cosas me han llevado a sumergirme en el mundo del desarrollo de software.
 
-Here are some ideas to get you started:
+## A dónde me dirijo
+Aspiro a convertirme en un desarrollador senior capaz de contribuir y tener un impacto significativo en proyectos de gran envergadura. Me encanta enfrentar desafíos emocionantes y aprender nuevas tecnologías. Estoy constantemente buscando oportunidades para crecer profesionalmente y conocer a personas talentosas en la industria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías que uso
+- JavaScript
+- Java
+- Node.js
+- React
+- Express
+- SQL
+- PostgreSQL
+- Vue
+
+## Cómo contactarme
+- Correo electrónico: miamartinezfe@unal.edu.co
+- Teléfono: 3506838832
+- LinkedIn: [linkedin.com/in/miguel-martinez-07bb56116](https://www.linkedin.com/in/miguel-martinez-07bb56116)
+
+¡No dudes en contactarme si tienes alguna pregunta, oportunidad de colaboración o simplemente para conectar!
